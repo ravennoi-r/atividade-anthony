@@ -1,0 +1,10 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+cidade = input("Digite sua cidade: ")
+curso = input("Digite seu curso: ")
+
+print("\n===== DADOS DO USUÁRIO =====")
+print(f"Nome: {nome}")
+print(f"Idade: {idade} anos")
+print(f"Cidade: {cidade}")
+print(f"Curso: {curso}")
